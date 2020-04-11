@@ -1,0 +1,2 @@
+# encuesta
+Encuesta de salida
